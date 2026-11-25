@@ -6,11 +6,11 @@ macOS（Apple Silicon）上の最小構成（Flutter SDK + Google Chrome）で�
 
 ## Phase 0: 最小構成での環境構築とプロジェクト初期化（Chrome 実行環境）
 
-- [ ] Homebrew による Flutter SDK の導入と PATH 設定、`flutter doctor` の確認（Xcode / Android 警告の正しい見方）
-- [ ] Google Antigravity IDE の Dart / Flutter 拡張機能および MCP サーバーの確認
-- [ ] `flutter create` による学習用プロジェクト生成とディレクトリ構造の理解
-- [ ] `flutter run -d chrome` および Chrome DevTools のデバイスエミュレーション（ハンディ端末画面サイズ想定）での動作確認
-- [ ] Git 初期化・初回コミットと GitHub リモート連携の準備
+- [x] Homebrew による Flutter SDK の導入と PATH 設定、`flutter doctor` の確認（Xcode / Android 警告の正しい見方）
+- [x] Google Antigravity IDE の Dart / Flutter 拡張機能および MCP サーバーの確認
+- [x] `flutter create` による学習用プロジェクト生成とディレクトリ構造の理解
+- [x] `flutter run -d chrome` および Chrome DevTools のデバイスエミュレーション（ハンディ端末画面サイズ想定）での動作確認
+- [x] Git 初期化・初回コミットと GitHub リモート連携の準備
 
 ---
 
