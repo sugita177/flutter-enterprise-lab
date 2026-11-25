@@ -9,7 +9,7 @@
 ## Phase 別ログ一覧
 
 - [Phase 0: 最小構成での環境構築とプロジェクト初期化](./docs/logs/phase_0.md)
-- Phase 1: Dart 言語の基礎と型安全性（`docs/logs/phase_1.md` — 開始時に作成）
+- [Phase 1: Dart 言語の基礎と型安全性](./docs/logs/phase_1.md)
 - Phase 2: Flutter の UI 基礎と業務画面レイアウト（`docs/logs/phase_2.md` — 開始時に作成）
 - Phase 3: テストの基礎学習（`docs/logs/phase_3.md` — 開始時に作成）
 - Phase 4: 状態管理とエンタープライズ・アーキテクチャ（`docs/logs/phase_4.md` — 開始時に作成）

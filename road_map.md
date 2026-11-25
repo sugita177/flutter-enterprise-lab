@@ -16,7 +16,7 @@ macOS（Apple Silicon）上の最小構成（Flutter SDK + Google Chrome）で�
 
 ## Phase 1: Dart 言語の基礎と型安全性
 
-- [ ] 基本構文、変数宣言（`final` / `const` / `var`）、型推論、コレクション操作（`List`, `Set`, `Map`, コレクション `if` / `for`）
+- [x] 基本構文、変数宣言（`final` / `const` / `var`）、型推論、コレクション操作（`List`, `Set`, `Map`, コレクション `if` / `for`）
 - [ ] Null Safety（`?`, `!`, `??`, `?.`, `late`）の徹底理解と安全な設計
 - [ ] クラス設計、名前付きコンストラクタ、`factory`、不変オブジェクト（Immutability）と等値性比較（`==` / `hashCode`）
 - [ ] Dart 3 のモダン構文（Records、Patterns、`sealed class` と `switch` 式による網羅的な状態・業務エラー表現）
